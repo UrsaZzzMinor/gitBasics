@@ -27,7 +27,7 @@ func removeDuplicates(input []string) []string {
 }
 
 func main() {
-	//Input slice
+
 	input := []string{
 		"dog",
 		"cat",
